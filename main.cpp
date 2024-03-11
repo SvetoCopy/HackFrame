@@ -4,7 +4,13 @@
 #include "FrameGUI.h"
 #include "HackTools.h"
 
-int main()
+int main(int argc, const char* argv[])
 {
-    StartFrame("VZLOM_ORIG.COM");
+    if (argc < 2) {
+        printf("Usage: %s hack.com\n", argv[0]);
+
+        return -1;
+    }
+
+    StartFrame(argv[1]);
 }

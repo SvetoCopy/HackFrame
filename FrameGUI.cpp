@@ -19,6 +19,7 @@ void StartFrame(const char* file_to_hack) {
     txBitBlt(txDC(), HACKBUTTON_X, HACKBUTTON_Y, HACKBUTTON_WIDTH, HACKBUTTON_HEIGHT, background_button, 0, 0);
 
     bool is_pressed = false;
+
     while (!txGetAsyncKeyState(VK_ESCAPE)) {
 
         if (HackButtonPressed() && !is_pressed) {
