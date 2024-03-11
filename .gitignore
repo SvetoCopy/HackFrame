@@ -1,0 +1,12 @@
+x64/
+1.txt
+.vs/
+HackFrame/
+HackFrame.sln
+HackFrame.vcxproj
+HackFrame.vcxproj.filters
+HackFrame.vcxproj.user
+main.exe
+main.exe.log
+main.exe.dmp
+TXWave.h
