@@ -20,7 +20,7 @@
 
 <p>Эта процедура отвечает только за отрисовку рамки на экране:</p>
 
-![image](https://github.com/SvetoCopy/HackFrame/assets/65361271/2c259c85-4fd8-41b4-942d-f1b40aa34c0b)
+<img src="https://github.com/SvetoCopy/HackFrame/assets/65361271/363e7443-b660-4a0e-8c4f-dbc00f66965e" width = "448" height = "373">
 
 <h3>get_input:</h3>
 
@@ -61,7 +61,7 @@ ZZZZZZZZZZZZZZZZZZ
 ```
 <p>Подобрав необходимый пароль, получаем:</p>
 
-![image](https://github.com/SvetoCopy/HackFrame/assets/65361271/b836415b-0849-4e12-853e-81e8f87a26ab)
+<img src="https://github.com/SvetoCopy/HackFrame/assets/65361271/0233c596-2588-46f5-bcea-5938339947bb" width = "406" height = "346">
 
 <h2>Взлом через замену байтов</h2>
 
@@ -86,4 +86,4 @@ ZZZZZZZZZZZZZZZZZZ
 
 <p>Теперь запускаем нашу программу и вводим любой пароль и получаем:</p>
 
-![image](https://github.com/SvetoCopy/HackFrame/assets/65361271/c389fff0-b4cd-4b9b-99f3-8e7d9629e680)
+<img src="https://github.com/SvetoCopy/HackFrame/assets/65361271/0233c596-2588-46f5-bcea-5938339947bb" width = "406" height = "346">
